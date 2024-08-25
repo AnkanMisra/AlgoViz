@@ -53,6 +53,22 @@ The following visualizations will be generated and saved in the graph/ directory
 	•	Bar Plot: Highlights the average execution time for each sorting algorithm.
 	•	Swarm Plot: Visualizes individual execution time data points without overlap.
 	•	Scatter Plot with Regression Line: Shows the trend of execution time as input size increases, with a regression line for each algorithm.
+ 
+## Tech Used
+
+•	Java:
+•	Used to implement the sorting algorithms and measure their performance on various input sizes.
+•	Compiles the Java source code (sort.java) into bytecode (Sort.class) that can be executed to generate sorting time data.
+•	Python:
+•	Utilizes the Pandas, Seaborn, and Matplotlib libraries to read the sorting time data from sorting_times.csv and generate visualizations.	
+•	visual.py script processes the data and creates various types of graphs to illustrate the time complexity of the sorting algorithms.
+•	Pandas:
+•	A powerful data manipulation library in Python used to read and pivot the sorting time data for visualization.
+•	Seaborn:
+•	A statistical data visualization library in Python built on top of Matplotlib, used for creating the heatmaps and other advanced plots.
+•	Matplotlib:
+•	A comprehensive library for creating static, animated, and interactive visualizations in Python. Used to generate line plots, bar plots, and other basic visualizations.
+
 
 ## Project Structure
 ```bash
