@@ -1,3 +1,4 @@
+
 # SortViz
 
 **SortViz** is a tool designed to visually demonstrate the time complexity of various sorting algorithms. This project provides an educational resource for understanding and comparing the efficiency of different sorting methods through clear and intuitive visualizations.
