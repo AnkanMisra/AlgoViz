@@ -44,7 +44,4 @@ To run the visualizations locally, you'll need to have Java and Python installed
 python3 visual.py
 
 
-
-
-
    
