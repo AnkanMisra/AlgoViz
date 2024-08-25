@@ -19,6 +19,10 @@
   - Counting Sort
 - **Logarithmic Scale Representation**: Accurately depicts the time complexity of sorting algorithms using a logarithmic scale.
 - **Graphs and Heatmaps**: Includes a variety of visualizations such as line charts and heatmaps to offer different perspectives on algorithm performance.
+![sorting_algorithm_regression](https://github.com/user-attachments/assets/d3d1daba-282f-4426-8b12-d37054c13bce)
+![sorting_algorithm_performance](https://github.com/user-attachments/assets/4733f0f8-91c4-4e61-b6d5-afd1b6442d73)
+
+
 
 ## Installation
 
