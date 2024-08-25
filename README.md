@@ -32,16 +32,18 @@ To run the visualizations locally, you'll need to have Java and Python installed
   
 2. Compile and run
    ```bash
-     java sort.java
+    java sort.java
 
 3. The data will be stored to the sorting_times.csv file
 
 4. Install these packages
     ```bash
-      pip install pandas seaborn matplotlib
+   pip install pandas seaborn matplotlib
 5. Run the Command
   ```bash
-    python3 visual.py
+python3 visual.py
+
+
 
 
 
