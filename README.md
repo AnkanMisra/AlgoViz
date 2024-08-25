@@ -46,14 +46,14 @@ To run the visualizations locally, you'll need to have Java and Python installed
 
 ## Visualization
 The following visualizations will be generated and saved in the graph/ directory:
-	•	Line Plot: Compares the time complexity of all sorting algorithms on different input sizes.
-	•	Heatmap: Displays a matrix of execution times for each algorithm at various input sizes.
-	•	Box Plot: Shows the distribution of execution times for each algorithm.
-	•	Pairplot: Provides a pairwise comparison of the algorithms’ performance.
-	•	Violin Plot: Illustrates the density of execution times across different algorithms.
-	•	Bar Plot: Highlights the average execution time for each sorting algorithm.
-	•	Swarm Plot: Visualizes individual execution time data points without overlap.
-	•	Scatter Plot with Regression Line: Shows the trend of execution time as input size increases, with a regression line for each algorithm.
+	-	Line Plot: Compares the time complexity of all sorting algorithms on different input sizes.
+	-	Heatmap: Displays a matrix of execution times for each algorithm at various input sizes.
+	-	Box Plot: Shows the distribution of execution times for each algorithm.
+	-	Pairplot: Provides a pairwise comparison of the algorithms’ performance.
+	-	Violin Plot: Illustrates the density of execution times across different algorithms.
+	-	Bar Plot: Highlights the average execution time for each sorting algorithm.
+	-	Swarm Plot: Visualizes individual execution time data points without overlap.
+	-	Scatter Plot with Regression Line: Shows the trend of execution time as input size increases, with a regression line for each algorithm.
  
 ## Tech Used
 
