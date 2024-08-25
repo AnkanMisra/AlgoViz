@@ -57,8 +57,7 @@ The following visualizations will be generated and saved in the graph/ directory
  
 ## Tech Used
 
--	Java:
--	Used to implement the sorting algorithms and measure their performance on various input sizes.
+-	Java: Used to implement the sorting algorithms and measure their performance on various input sizes.
 -	Compiles the Java source code (sort.java) into bytecode (Sort.class) that can be executed to generate sorting time data.
 -	Python: Utilizes the Pandas, Seaborn, and Matplotlib libraries to read the sorting time data from sorting_times.csv and generate visualizations.	
 -	visual.py script processes the data and creates various types of graphs to illustrate the time complexity of the sorting algorithms.
